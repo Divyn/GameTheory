@@ -1,4 +1,3 @@
 # GameTheory
 
-Programs in R and python
-in Game Theory and Human Behaviour
+A repository for simple game-programs in R and Python using mathematical concepts of Game Theory for interaction between rational agents.
