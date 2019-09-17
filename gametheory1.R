@@ -1,4 +1,4 @@
-#I changed the famous prisoner's dilemma problem a little bit. The original problem is in the link below
+#I changed the problem in this link a little bit.
 #https://www.r-bloggers.com/100-prisoners-100-lines-of-code/
   
 #PROBLEM
