@@ -26,7 +26,7 @@ run.game <- function(no.students,n.boxes,iters,maxtries)
     boxes = sample(1:n.boxes,size=n.boxes,replace=FALSE)
     # Track how many "winners" we have
     foundIt = 0
-    # Main loop over the prisoners
+    # for every student
     for(st in students) {
       # create a copy of the boxes object to
       # keep an index of the opened boxes for 
@@ -35,7 +35,7 @@ run.game <- function(no.students,n.boxes,iters,maxtries)
       # Track the student's list of opened boxes
       path = c(st)
       tries = 1
-      # Look first in the box that matches your own number
+     
       
       while(tries < maxtries) { 			
         inBox = sample(boxes.temp,1)
