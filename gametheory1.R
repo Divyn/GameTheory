@@ -1,10 +1,10 @@
-#I changed the problem found at this link a little bit.
+#I changed the famous prisoner's dilemma problem a little bit. The original problem is in the link below
 #https://www.r-bloggers.com/100-prisoners-100-lines-of-code/
   
 #PROBLEM
 #There will be x students, each of them having a roll number. There are y number of boxes( y>=x) with a number in it. Every student is given a certain number(z) of tries to find the box with a value<= his/her roll number. If they get the correct number, then they can skip assignments else they would have the penalty of completing an extra assignnment. Here the success would indicate every time he/she gets the correct box. 
 
-#Method1:
+#Method1: No Strategy at all
 #Try opening boxes at random until he had exhausted his/her tries or found the number.
 
 library(ggplot2)
