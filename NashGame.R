@@ -1,4 +1,4 @@
-#Nash equilibrium
+#Nash game
 #you get to pick a number between 2 and 100, it has to be an integer.
 #Okay, so I should be trying to name 2/3 of what I think the number is going to be.
 #why 2 and 100? minimum 2/3 value I can guess is 1, so the original number has to start from 1.5
