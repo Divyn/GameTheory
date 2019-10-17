@@ -1,4 +1,4 @@
-#multi armed bandit
+#multi armed bandit problem - Had its orgins in Game theory and is also used in reinforcement learning to demonstrate exploittation for maximum rewards.
 
 dataset = read.csv('Ads_Optimisation.csv')
 dataset=do.call(rbind, lapply(dataset, as.numeric))
